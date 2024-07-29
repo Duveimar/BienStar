@@ -12,3 +12,4 @@ Programacion de registro .
 Programacion de login. 
 Programacion salida del sistema. 
 Validacion de url (sin login no ingresa).
+1p
