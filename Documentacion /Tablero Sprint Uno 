@@ -1,1 +1,14 @@
- nn
+Modelo
+    CRUD
+Vista
+    HTML,
+    CSS,
+    JavaScript,
+    imagenes,
+    fuenteTipografica,
+    iconos.
+Controlador
+    Peticiones
+    Respuestas 
+    Intrmediario
+entre vista&modelo
