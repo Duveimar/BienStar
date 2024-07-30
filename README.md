@@ -2,7 +2,7 @@
 Planilla
 Tareas de implementacion 
 
-Creacion del proyecto y estructura de carpetas. 
+Creacion del proyecto y estructura de carpetas. MVC
 Agregado de dependencias .
 Creacion de vistas. 
     Login
