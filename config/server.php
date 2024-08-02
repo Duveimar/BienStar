@@ -7,7 +7,7 @@
 
 
     /*----------  Configuracion de la conexion 
-    a la base de datos 
+    a la base de datos. 
     constantes y parametros  login y registro 
     para el administrador de ususarios ----------*/
 
