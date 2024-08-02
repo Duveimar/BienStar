@@ -1,0 +1,25 @@
+https://github.com/Duveimar/BienStar/blob/main/.htaccess
+
+"El archivo .htaccess (HyperText Access o acceso de hipertexto) es un 
+archivo de configuración del servidor Apache, que contiene las directivas que definen el comportamiento de Apache. El archivo .htaccess indica en todo momento qué puede hacer y qué no el usuario que visita tu web, así como configurar el comportamiento del servidor ante errores de conexión u optimizar la carga de las páginas."REF·13(WEB.2024)
+
+    Reescribir la URL 1(amigables)URL semantica(facil de entender tanto a los buscadores, como para el ususario )el asunto de la pagina con solo leer la direccion- lo contrario DINAMICAS signos extraños
+
+ Proteger directorios con contraseña
+ Habilitar la protección de enlaces directos
+ No permitir el acceso a direcciones IP específicas
+ Cambiar la zona horaria de tu sitio web 
+ Alterar la página de índice predeterminada.
+
+
+https://github.com/Duveimar/BienStar/blob/main/config/server.php
+
+
+
+
+https://github.com/Duveimar/BienStar/blob/main/config/app.php
+https://github.com/Duveimar/BienStar/blob/main/autoload.php
+https://github.com/Duveimar/BienStar/tree/main/app/ajax
+https://github.com/Duveimar/BienStar/tree/main/app/controllers
+https://github.com/Duveimar/BienStar/tree/main/app/models
+https://github.com/Duveimar/BienStar/tree/main/app/views
